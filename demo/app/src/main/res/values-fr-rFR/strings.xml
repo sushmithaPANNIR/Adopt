@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Adopt</string>
+    <string name="text1">Adopt</string>
+    <string name="text2">L\'application qui vous permet de choisir votre animal de compagnie !</string>
+    <string name="btn1">Adopter!</string>
+    <string name="btn2">Quitter</string>
+    <string name="btn3">Recevoir le numéro</string>
+    <string name="msg">My toast</string>
+    <string name="menu1">Qui sommes nous ?</string>
+    <string name="menu2">Nous contacter</string>
+    <string name="menu3">Nous appeler</string>
+    <string name="menu4">Quitter</string>
+    <string name="propos">Cette application a été réalisée par :</string>
+    <string name="pers1">Elève en 3ème année à l\'ESIEA ET SKEMA</string>
+    <string name="pers2">Elève en 3ème année à l\'ESIEA</string>
+    <string name="nom1">Sushmitha PANNIR</string>
+    <string name="nom2">Adrien MAITRE</string>
+</resources>

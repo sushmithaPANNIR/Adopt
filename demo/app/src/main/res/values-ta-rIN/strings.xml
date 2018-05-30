@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">அடாப்ட்</string>
+    <string name="text1">அடாப்ட்</string>
+    <string name="text2">உங்கள் செல்லப்பிராணியைத் தேர்ந்தெடுப்பதற்கு அனுமதிக்கும் பயன்பாடு !</string>
+    <string name="btn1">சிற்றுண்டி</string>
+    <string name="btn2">சங்கத்தை தொடர்பு கொள்ளுங்கள்</string>
+    <string name="btn3">அறிவிப்பு</string>
+    <string name="msg">என் சிற்றுண்டி</string>
+    <string name="menu1">நாங்கள் யார்?</string>
+    <string name="menu2">எங்கள் தொடர்பு</string>
+    <string name="menu3">எங்கள் தொடர்பு</string>
+    <string name="menu4">வெளியீடு</string>
+    <string name="propos">இந்த பயன்பாடு செய்யப்பட்டது:</string>
+    <string name="pers1">3 ஆம் ஆண்டில் மாணவர் ESIEA மற்றும் SKEMA</string>
+    <string name="pers2">3 ஆம் ஆண்டில் மாணவர் ESIEA</string>
+    <string name="nom1">Sushmitha PANNIR</string>
+    <string name="nom2">Adrien MAITRE</string>
+</resources>

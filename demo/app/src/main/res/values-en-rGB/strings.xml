@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Adopt</string>
+    <string name="text1">Adopt</string>
+    <string name="text2">The application which helps you choose you pet !</string>
+    <string name="btn1">Let\'s start!</string>
+    <string name="btn2">Receive number</string>
+    <string name="btn3">Quit</string>
+    <string name="msg">My toast</string>
+    <string name="menu1">About Us</string>
+    <string name="menu2">Contact us</string>
+    <string name="menu3">Call Us</string>
+    <string name="menu4">Quit</string>
+    <string name="propos">This application was done by :</string>
+    <string name="pers1">3rd year student at ESIEA and SKEMA</string>
+    <string name="pers2">3rd year student at ESIEA</string>
+    <string name="nom1">Sushmitha PANNIR</string>
+    <string name="nom2">Adrien MAITRE</string>
+</resources>
